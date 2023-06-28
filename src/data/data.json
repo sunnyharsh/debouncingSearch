@@ -1,0 +1,39 @@
+{
+ "data": [
+    {
+      "name":"The Bombay Canteen",
+      "id":1212,
+      "rating":3.4
+    },
+    {
+      "name":"The Table, Mumbai",
+      "id":1213,
+      "rating":5
+    },
+    {
+      "name":"Cecconi’s, Soho House, Mumbai",
+      "id":1210,
+      "rating":4
+    },
+    {
+      "name":"Hakassan, Mumbai",
+      "id":1214,
+      "rating":2
+    },
+    {
+      "name":"Indian Accent, New Delhi",
+      "id":1216,
+      "rating":4.2
+    },
+    {
+      "name":"Olive Qutub, New Delhi",
+      "id":1211,
+      "rating":4.3
+    },
+    {
+      "name":"Artusi Ristorante, New Delhi",
+      "id":1216,
+      "rating":4.9
+    }
+  ]
+}

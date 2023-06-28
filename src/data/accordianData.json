@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "label":"About instamart",
+            "content":" Instamart aims to deliver groceries in 15-30 minutes through a network of seller-owned and operated dark stores."
+        },
+        {
+            "label":"Team instamart",
+            "content":"Donec placerat, lectus sed mattis semper, neque lectus feugiatlectus, varius pulvinar diam eros in elit. Pellentesque convallis laoreet laoreet."
+        },
+        {
+            "label":"Careers",
+            "content":"Nunc vitae orci ultricies, auctor nunc in, volutpat nisl. Integer sit amet egestas eros, vitae egestas augue. Duis vel est augue."
+        }
+    ]
+}
